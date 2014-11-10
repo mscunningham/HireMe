@@ -182,10 +182,21 @@ a, a:hover{
 }
 
 
+.fa{
+    color: #ffcc33;
+}
+
+.fa:hover{
+    color: white;
+}
+
 .BackToTop{
     color: white;
     font-family: 'Permanent Marker';
     font-size: 40px;
+}
+.BackToTop:hover{
+    color: #ffcc33;
 }
 
 .btn-primary:hover {
